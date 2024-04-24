@@ -1,1 +1,2 @@
 # landing-page-again
+College has taken the majority of my time, so I took a break from coding for a while. However, I am determined to come back even stronger, so I am dusting off some of the beginner concepts. This is the second time I tackle this project. I will do my best!
