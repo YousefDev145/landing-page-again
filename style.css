@@ -32,3 +32,39 @@ header ul li {
     display: flex;
     align-items: center;
 }
+
+.hero {
+    padding: 40px 80px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+
+.hero .left {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero h2 {
+    margin: 0;
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: bold;
+    align-self: flex-start;
+}
