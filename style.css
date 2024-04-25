@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: sans-serif
+    font-family: sans-serif;
 }
 
 header, header ul {
@@ -94,4 +94,23 @@ button {
 
 .card p {
     color: #1F2937;
+}
+
+.quote {
+    padding: 100px 150px;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.quote q {
+    font-size: 36px;
+}
+
+.quote .citation {
+    font-size: 30px;
+    font-weight: bold;
+    align-self: flex-end;
 }
