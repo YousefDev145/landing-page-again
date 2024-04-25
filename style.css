@@ -69,6 +69,10 @@ button {
     align-self: flex-start;
 }
 
+.random-information {
+    padding: 75px 0;
+}
+
 .random-information h3 {
     color: #1F2937;
     text-align: center;
