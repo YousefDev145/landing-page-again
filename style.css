@@ -145,3 +145,10 @@ button {
 .sign-up-window button {
     border: 2px solid #F9FAF8;
 }
+
+footer {
+    padding: 25px 0;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+}
