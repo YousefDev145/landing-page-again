@@ -52,6 +52,7 @@ header ul li {
     width: 600px;
     display: flex;
     flex-direction: column;
+    align-items: flex-start;
 }
 
 .hero h2 {
@@ -66,13 +67,12 @@ header ul li {
 }
 
 button {
-    padding: 5px 10px;
+    padding: 7.5px 20px;
     border: none;
     border-radius: 5px;
     background-color: #3882F6;
-    color: #E5E7EB;
+    color: #F9FAF8;
     font-weight: bold;
-    align-self: flex-start;
 }
 
 .random-information {
@@ -126,4 +126,22 @@ button {
     font-size: 30px;
     font-weight: bold;
     align-self: flex-end;
+}
+
+.sign-up {
+    padding: 100px 250px;
+}
+
+.sign-up-window {
+    padding: 25px 75px;
+    border-radius: 25px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sign-up-window button {
+    border: 2px solid #F9FAF8;
 }
