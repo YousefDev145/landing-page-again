@@ -1,6 +1,12 @@
+@font-face {
+    font-family: Rubik;
+    src: url("Rubik-Light.woff");
+    font-weight: normal;
+}
+
 body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: Rubik, sans-serif;
 }
 
 header, header ul {
